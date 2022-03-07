@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.MavenProj.Maven_First&apos; to &apos;Maven_Repet_pgm&apos;&#x0D;&#x0A;- Original project: &apos;MavenProj&apos;&#x0D;&#x0A;- Original element: &apos;com.MavenProj.Maven_First&apos;&#x0D;&#x0A;- Renamed element: &apos;com.MavenProj.Maven_Repet_pgm&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Maven_First&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.MavenProj{Maven_First.java[Maven_First" matchStrategy="1" name="Maven_Repet_pgm" qualified="false" references="true" similarDeclarations="false" stamp="1633628958228" textual="false" version="1.0"/>
+</session>

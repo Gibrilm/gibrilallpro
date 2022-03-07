@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.selenium.Chrome_Driver&apos; to &apos;Browser_Launch&apos;&#x0D;&#x0A;- Original project: &apos;Selenium&apos;&#x0D;&#x0A;- Original element: &apos;com.selenium.Chrome_Driver&apos;&#x0D;&#x0A;- Renamed element: &apos;com.selenium.Browser_Launch&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Chrome_Driver&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.selenium{Chrome_Driver.java[Chrome_Driver" matchStrategy="1" name="Browser_Launch" qualified="false" references="true" similarDeclarations="false" stamp="1630529438902" textual="false" version="1.0"/>
+</session>
